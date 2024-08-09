@@ -10,7 +10,7 @@ The term "Opera" means to me not only an access as an internet portal but also t
 
                                    
 <h1 align="center">Hallo 👋, I'm Daiva Keller</h1>
-<h3 align="center">A passionate frontend developerperper from Germany</h3>
+<h3 align="center">A passionate frontend developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daivakeller&label=Profile%20views&color=0e75b6&style=flat" alt="daivakeller" /> </p>
 
